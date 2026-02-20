@@ -87,7 +87,7 @@ Base de Dados (Excel Online / SharePoint)
 
 O manual detalhado do sistema está disponível no arquivo:
 
-![Documentação](documentacao.pdf)
+[Documentação](documentacao.pdf)
 
 ---
 
