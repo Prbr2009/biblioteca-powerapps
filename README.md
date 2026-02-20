@@ -1,37 +1,55 @@
-# 📚 Biblioteca RMM – Power Apps
+# 📚 Sistema de Biblioteca Corporativa – Power Apps
 
-## 📌 Sobre o Projeto
-Aplicação desenvolvida em Power Apps para controle de empréstimos de livros internos.
-
-## 🚀 Funcionalidades
-- Consulta de livros disponíveis
-- Reserva de livros
-- Controle de status
-- Tela "Meus Empréstimos"
-- Atualização em tempo real
-
-## ⚙️ Tecnologias Utilizadas
-- Power Apps
-- Power Automate
-- Excel Online
-- SharePoint
-
-## 🧠 Regras de Negócio
-- Um livro só pode ser reservado se estiver disponível
-- O usuário visualiza apenas seus empréstimos
-- Atualização automática de status
-
-## 🖼️ Telas do Sistema
-(Coloque prints aqui)
-
-## 📂 Estrutura da Solução
-- Aplicativo Canvas
-- Fluxo de automação para controle de status
-- Base de dados em Excel Online
-
-## 📄 Documentação Completa
-Arquivo disponível na pasta do projeto.
+Aplicação desenvolvida na **Power Platform** para controle interno de empréstimos de livros corporativos, permitindo consulta, reserva e acompanhamento de status em tempo real.
 
 ---
 
-Projeto desenvolvido por Seu Nome
+## 🎯 Objetivo do Projeto
+
+Criar um sistema simples, intuitivo e eficiente para controle de empréstimos de livros dentro do ambiente corporativo, reduzindo controles manuais e garantindo rastreabilidade das solicitações.
+
+---
+
+## 🚀 Funcionalidades Implementadas
+
+✔ Consulta de livros disponíveis  
+✔ Visualização de detalhes (capa + sinopse)  
+✔ Reserva de livros  
+✔ Atualização automática de status  
+✔ Tela “Meus Empréstimos” filtrada por usuário logado  
+✔ Atualização em tempo real da disponibilidade  
+
+---
+
+## 🧠 Regras de Negócio
+
+- Um livro só pode ser reservado se estiver com status **Disponível**
+- O usuário visualiza apenas seus próprios empréstimos
+- Ao enviar solicitação, o status inicial é definido como **Solicitado**
+- A disponibilidade é atualizada automaticamente após reserva
+
+---
+
+## 🏗 Arquitetura da Solução
+
+Usuário  
+⬇  
+Power Apps (Canvas App)  
+⬇  
+Power Automate (Fluxos de atualização e controle)  
+⬇  
+Base de Dados (Excel Online / SharePoint)
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- Power Apps (Canvas)
+- Power Fx
+- Power Automate
+- Excel Online / SharePoint
+- Microsoft 365
+
+---
+
+## 📂 Estrutura do Repositório
