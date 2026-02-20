@@ -57,19 +57,19 @@ Base de Dados (Excel Online / SharePoint)
 ## 🖼️ Telas do Sistema
 
 ### Tela Inicial
-*(Inserir imagem aqui)*
+![Tela Inicial](imagens/tela%20inicial2.png)
 
 ### Consulta de Livros
-*(Inserir imagem aqui)*
+![Tela Consulta](imagens/tela%20livros.png)
 
 ### Detalhes do Livro
-*(Inserir imagem aqui)*
+![Tela Detalhes](imagens/tela%20consulta.png)
 
 ### Reserva
-*(Inserir imagem aqui)*
+![Tela Reserva](imagens/tela%20reserva.png)
 
 ### Meus Empréstimos
-*(Inserir imagem aqui)*
+![Tela Empréstimos](imagens/tela%20empréstimos.png)
 
 ---
 
