@@ -53,3 +53,55 @@ Base de Dados (Excel Online / SharePoint)
 ---
 
 ## 📂 Estrutura do Repositório
+
+## 🖼️ Telas do Sistema
+
+### Tela Inicial
+*(Inserir imagem aqui)*
+
+### Consulta de Livros
+*(Inserir imagem aqui)*
+
+### Detalhes do Livro
+*(Inserir imagem aqui)*
+
+### Reserva
+*(Inserir imagem aqui)*
+
+### Meus Empréstimos
+*(Inserir imagem aqui)*
+
+---
+
+## 📈 Benefícios Gerados
+
+- Eliminação de controle manual
+- Maior organização do acervo
+- Redução de conflitos de reserva
+- Centralização das informações
+- Melhoria na experiência do usuário interno
+
+---
+
+## 📄 Documentação Completa
+
+O manual detalhado do sistema está disponível no arquivo:
+
+`documentacao.pdf`
+
+---
+
+## 🔐 Observação
+
+Este projeto foi desenvolvido como solução corporativa interna.  
+Dados sensíveis e informações institucionais foram omitidos para fins de portfólio.
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Paulo Rodrigues  
+Especialista em Power Platform  
+Automação de Processos | Power Apps | Power Automate
+
+---
