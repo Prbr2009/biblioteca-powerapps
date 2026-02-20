@@ -105,3 +105,10 @@ Especialista em Power Platform
 Automação de Processos | Power Apps | Power Automate
 
 ---
+
+## 💡 Desafios Técnicos Resolvidos
+
+- Controle de status dinâmico
+- Filtro por usuário logado
+- Atualização automática de disponibilidade
+- Estruturação da lógica em Power Fx
